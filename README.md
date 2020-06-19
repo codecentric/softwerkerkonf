@@ -48,6 +48,7 @@ Wir nutzen ein digitales Whiteboard, welches alle Speaker\*innen, Moderator\*inn
 Alle Talks werden aufgezeichnet und von uns nach und nach auf YouTube ab kommender Woche in einer neuen SoftwerkerKonf Playlist veröffentlicht. Abonniere schon jetzt [unseren codecentric Kanal](https://www.youtube.com/channel/UCCadM9XfyB78TEogPzwP7iQ) um kein Video zu verpassen und entdecke noch viel weitere spannende Vorträge von uns!
 
 ▶︎ [Talks auf YouTube anschauen](https://www.youtube.com/channel/UCCadM9XfyB78TEogPzwP7iQ/videos)
+▶︎ [Playlist "SoftwerkerKonf" auf YouTube anschauen](https://www.youtube.com/playlist?list=PLD9VybHH2wnYtuaiEcjMH5n2gTgNSDYAV)
 
 
 ## [Slides bald auf Speaker Deck](https://speakerdeck.com/softwerkerkonf)
