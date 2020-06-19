@@ -1,6 +1,6 @@
-## Die Online Konferenz zu unserem [Softwerker Magazin](https://www.dersoftwerker.de)
+## Die Online Konferenz zum [Softwerker Magazin](https://www.dersoftwerker.de)
 
-#### Hashtags: #softwerkerkonf #dersoftwerker 
+Hashtags: #softwerkerkonf #dersoftwerker 
 
 # Agenda
 
@@ -23,7 +23,7 @@ Vetreten durch Dr. Diana Kupfer und Corinna Kern.
 
 # Kommunikation
 
-## [Slack Chatforum](https://join.slack.com/t/softwerkerkonf/shared_invite/zt-fdosk9rl-4yJRe0zlNMw1a1Cd16gTDw) (Invite Link)
+## [Slack Diskussionsforum](https://join.slack.com/t/softwerkerkonf/shared_invite/zt-fdosk9rl-4yJRe0zlNMw1a1Cd16gTDw) < Invite Link
 
 Diskutiere mit uns und anderen Teilnehmer\*innen in den Channels #stage #hallway #softwerker
 
