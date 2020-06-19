@@ -39,20 +39,20 @@ Diskutiere mit uns und anderen Teilnehmer\*innen in den folgenden Channels: **#s
 
 Wir nutzen ein digitales Whiteboard, welches alle Speaker\*innen, Moderator\*innen und Redakteuer\*innen aus dem Zoom-Räumen editieren und teilen können. Du hast auch Kommentierzugriff und kannst News sowie alle Ausgaben des Softwerkers hier entdecken.
 
-▶︎ [Whiteboard anschauen](https://miro.com/app/board/o9J_kq1eEyU=/)
+▶︎ [Whiteboard "SoftwerkerKonf" auf Miro anschauen](https://miro.com/app/board/o9J_kq1eEyU=/)
 
 ## [Talks bald auf YouTube](https://www.youtube.com/channel/UCCadM9XfyB78TEogPzwP7iQ/videos)
 
 Alle Talks werden aufgezeichnet und von uns nach und nach auf YouTube ab kommender Woche in einer neuen SoftwerkerKonf Playlist veröffentlicht. Abonniere schon jetzt [unseren codecentric Kanal](https://www.youtube.com/channel/UCCadM9XfyB78TEogPzwP7iQ) um kein Video zu verpassen und entdecke noch viel weitere spannende Vorträge von uns!
 
-▶︎ [Talks anschauen](https://www.youtube.com/channel/UCCadM9XfyB78TEogPzwP7iQ/videos)
+▶︎ [Talks auf YouTube anschauen](https://www.youtube.com/channel/UCCadM9XfyB78TEogPzwP7iQ/videos)
 
 
 ## [Slides bald auf Speaker Deck](https://speakerdeck.com/softwerkerkonf)
 
 Die Slides/Vortragsfolien aller Talks findest Du bereits ab Anfang nächster Woche auf SpeakerDeck.
 
-▶︎ [Slides anschauen](https://speakerdeck.com/softwerkerkonf))
+▶︎ [Slides auf Speaker Deck anschauen](https://speakerdeck.com/softwerkerkonf)
 
 
 # Code of Conduct
