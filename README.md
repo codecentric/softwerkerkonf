@@ -10,16 +10,16 @@ Die Agenda und weitere Infos findet ihr auf unserer Website [https://info.codece
 
 ## [Stage](https://codecentric.zoom.us/j/94123178825?pwd=KzZFcm1xeERWNXkyVUtYN1JFZkxYQT09)
 
-Schau Dir alle Talks hier an! Fragen an die Speaker\*innen bitte mit dem Q&A-Tool stellen.
+Schau Dir [alle Talks](https://info.codecentric.de/softwerkerkonf-2020) von 14:00 bis 21:00 hier an! Fragen an die Speaker\*innen bitte mit dem Q&A-Tool stellen.
 
 ## [Hallway](https://codecentric.zoom.us/j/94421281164?pwd=dnk4bi80WmVGYmg5a2FqT2FhYWxlZz09)
 
 Allgemeiner offener Austausch. Diskussionrunden nach den Talks. Hat Breakout-Rooms
 
-## [Softwerker](https://codecentric.zoom.us/j/97793421458?pwd=K095ZFBrRGxrNVEzUGFlMDdzNmRjQT09) Magazin Stand (Offen von 14:00 bis 16:00!)
+## [Softwerker](https://codecentric.zoom.us/j/97793421458?pwd=K095ZFBrRGxrNVEzUGFlMDdzNmRjQT09) Magazin Stand
 
 Triff unser [Softwerker](https://www.dersoftwerker.de)-Redaktionsteam und lerne alles rund um unser Magazin. 
-Vetreten durch **Diana Kupfer** und **Corinna Kern**.
+Vetreten durch **Diana Kupfer** und **Corinna Kern**. *Nur geöffnet von 14:00 bis 16:00!*
 
 # Kommunikationstools
 
