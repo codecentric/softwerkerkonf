@@ -53,7 +53,7 @@ Alle Talks werden aufgezeichnet und von uns nach und nach auf YouTube ab kommend
 
 ## [Slides bald auf Speaker Deck](https://speakerdeck.com/softwerkerkonf)
 
-Die Slides/Vortragsfolien aller Talks findest Du bereits ab Anfang nächster Woche auf SpeakerDeck.
+Die Slides/Vortragsfolien aller Talks findest Du bereits ab Anfang nächster Woche auf Speaker Deck.
 
 ▶︎ [Slides auf Speaker Deck anschauen](https://speakerdeck.com/softwerkerkonf)
 
