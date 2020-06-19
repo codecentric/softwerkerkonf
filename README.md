@@ -8,7 +8,7 @@ Die Agenda und weitere Infos findet ihr auf unserer Website [https://info.codece
 
 ## [Stage](https://codecentric.zoom.us/j/94123178825?pwd=KzZFcm1xeERWNXkyVUtYN1JFZkxYQT09)
 
-Schau Dir [alle Talks](https://info.codecentric.de/softwerkerkonf-2020) von 14:00 bis 21:00 hier an! Fragen an die Speaker\*innen bitte mit dem Q&A-Tool stellen.
+Schau Dir [alle Talks](https://info.codecentric.de/softwerkerkonf-2020) von 14:00 bis 21:00 hier an! Fragen an die Speaker\*innen bitte mit dem Zoom Q&A/FAQ-Tool stellen. In den letzten 5 Minuten greift die Moderator\*in die besten Fragen von Euch auf und stellt diese an unsere Speaker\*innen. Danach kannst Du dich ganz persönlich mit den Speaker\*innen im Hallway-Track weiter austauschen.
 
 ## [Hallway](https://codecentric.zoom.us/j/94421281164?pwd=dnk4bi80WmVGYmg5a2FqT2FhYWxlZz09)
 
