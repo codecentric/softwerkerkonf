@@ -18,12 +18,12 @@ Allgemeiner offener Austausch. Diskussionrunden nach den Talks. Hat Breakout-Roo
 
 ## [Softwerker](https://codecentric.zoom.us/j/97793421458?pwd=K095ZFBrRGxrNVEzUGFlMDdzNmRjQT09) Magazin Stand (Offen von 14:00 bis 16:00!)
 
-Triff unser [Softwerker](https://www.dersoftwerker.de) Redaktionsteam und lerne alles rund um den Softwerker. 
-Vetreten durch Dr. Diana Kupfer und Corinna Kern.
+Triff unser [Softwerker](https://www.dersoftwerker.de)-Redaktionsteam und lerne alles rund um unser Magazin. 
+Vetreten durch **Diana Kupfer** und **Corinna Kern**.
 
-# Kommunikation
+# Kommunikationstools
 
-## [Slack Diskussionsforum](https://join.slack.com/t/softwerkerkonf/shared_invite/zt-fdosk9rl-4yJRe0zlNMw1a1Cd16gTDw) < Invite Link
+## [Slack Diskussionsforum](https://join.slack.com/t/softwerkerkonf/shared_invite/zt-fdosk9rl-4yJRe0zlNMw1a1Cd16gTDw) < Invite Link!
 
 Diskutiere mit uns und anderen Teilnehmer\*innen in den Channels #stage #hallway #softwerker
 
