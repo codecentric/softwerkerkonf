@@ -21,7 +21,7 @@ Im Hallway-Track kannst du dich neben dem Austausch mit Speaker\*innen nach ihre
 Triff unser [Softwerker](https://www.dersoftwerker.de)-Redaktionsteam und lerne alles rund um unser Magazin. 
 Vetreten durch **Diana Kupfer** und **Corinna Kern**. *Nur geöffnet von 14:00 bis 16:00!*
 
-# Kommunikationstools
+# Tools
 
 ## [Slack Diskussionsforum](https://join.slack.com/t/softwerkerkonf/shared_invite/zt-fdosk9rl-4yJRe0zlNMw1a1Cd16gTDw)
 
@@ -30,6 +30,12 @@ Diskutiere mit uns und anderen Teilnehmer\*innen in den folgenden Channels: **#s
 ## [Miro Whiteboard](https://miro.com/app/board/o9J_kq1eEyU=/)
 
 Wir nutzen ein digitales Whiteboard, welches alle Speaker\*innen, Moderator\*innen und Redakteuer\*innen aus dem Zoom-Räumen editieren und teilen können. Du hast auch Kommentierzugriff und kannst News sowie alle Ausgaben des Softwerkers hier entdecken.
+
+## [Talks bald als YouTube Video](https://www.youtube.com/channel/UCCadM9XfyB78TEogPzwP7iQ)
+
+Alle Talks werden aufgezeichnet und von uns nach und nach auf YouTube ab kommender Woche in einer neuen SoftwerkerKonf Playlist veröffentlicht. Abonniere schon jetzt [unseren codecentric Kanal](https://www.youtube.com/channel/UCCadM9XfyB78TEogPzwP7iQ) um kein Video zu verpassen und entdecke noch viel weitere spannende Vorträge von uns!
+
+
 
 # Code of Conduct
 
