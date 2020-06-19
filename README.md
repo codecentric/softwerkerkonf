@@ -12,7 +12,7 @@ Schau Dir [alle Talks](https://info.codecentric.de/softwerkerkonf-2020) von 14:0
 
 ## [Hallway](https://codecentric.zoom.us/j/94421281164?pwd=dnk4bi80WmVGYmg5a2FqT2FhYWxlZz09)
 
-Allgemeiner offener Austausch. Diskussionrunden nach den Talks. Hat Breakout-Rooms
+Im Hallway Track kannst Du dich ganz allgemeiner und offen mit anderen Konferenzteilnehmer\*innen und codcentricern austauschen. Zudem wechseln alle Speaker\*innen und unsere Moderator\*innen der Fragen am Ende eines Talks für weitere Diskussionsrunden mit Euch in diesen Raum (auch 1:1). Die Hallway bietet Breakout-Rooms an.
 
 ## [Softwerker](https://codecentric.zoom.us/j/97793421458?pwd=K095ZFBrRGxrNVEzUGFlMDdzNmRjQT09) Magazin Stand
 
