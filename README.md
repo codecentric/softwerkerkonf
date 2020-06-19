@@ -67,12 +67,12 @@ Our conference is dedicated to providing a harassment-free conference experience
 
 ### Long Version
 
-Please visit: [https://www.contributor-covenant.org/version/2/0/code_of_conduct/](https://www.contributor-covenant.org/version/2/0/code_of_conduct/)
+▶︎ [Visit contributor-covenant.org](https://www.contributor-covenant.org/version/2/0/code_of_conduct/)
 
 ### Kontaktnummer und Mail
 
 Im Falle der Verletzung des Code of Conducts kannst Du Dich gerne an Marina Wottschal wenden:
 
-Mail: marina.wottschal@codecentric.de
-Notfallnummer: +491717801932
+▶︎ Mail marina.wottschal@codecentric.de
+▶︎ Notfallnummer +491717801932
 
