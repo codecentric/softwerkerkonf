@@ -54,7 +54,6 @@ Die Slides/Vortragsfolien aller Talks findest Du bereits ab Anfang nächster Woc
 
 ▶︎ [Slides auf Speaker Deck anschauen](https://speakerdeck.com/softwerkerkonf)
 
-
 # Code of Conduct
 
 All attendees, speakers, sponsors and volunteers at our conference are required to agree with the following code of conduct. Organisers will enforce this code throughout the event. We are expecting cooperation from all participants to help ensuring a safe environment for everybody.
@@ -66,4 +65,11 @@ Our conference is dedicated to providing a harassment-free conference experience
 ### Long Version
 
 Please visit: [https://www.contributor-covenant.org/version/2/0/code_of_conduct/](https://www.contributor-covenant.org/version/2/0/code_of_conduct/)
+
+### Kontaktnummer und Mail
+
+Im Falle der Verletzung des Code of Conducts kannst Du Dich gerne an Marina Wottschal wenden:
+
+Mail: marina.wottschal@codecentric.de
+Notfallnummer: +491717801932
 
