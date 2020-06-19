@@ -1,6 +1,6 @@
-### Die Online Konferenz zu unserem [Softwerker Magazin](https://www.dersoftwerker.de)
+## Die Online Konferenz zu unserem [Softwerker Magazin](https://www.dersoftwerker.de)
 
-## Hashtags: #softwerkerkonf #dersoftwerker 
+#### Hashtags: #softwerkerkonf #dersoftwerker 
 
 # Agenda
 
