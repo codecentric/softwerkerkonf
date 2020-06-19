@@ -57,13 +57,13 @@ Die Slides/Vortragsfolien aller Talks findest Du bereits ab Anfang nächster Woc
 
 ▶︎ [Slides auf Speaker Deck anschauen](https://speakerdeck.com/softwerkerkonf)
 
-## [Ask-the-Experts](https://hubs.ly/H0rtCVv0) & Remote Events
+## [Ask the expert!](https://hubs.ly/H0rtCVv0) und Remote Events Service
 
 Dir hat unsere Konferenz gefallen? Dann kannst du ab sofort auch unsere Expert\*innen – darunter einige der heutigen Speaker\*innen – direkt und unkompliziert für eine einstündige Beratung buchen. 
 
-Zudem bieten wir an für Dich und Dein Unternehmen Konferenzen und Webinare professionell in der Umsetzung zu begleiten. (Eine eigene Website für diese Angebot folgt bald.)
+Zudem bieten wir an für Dich und Dein Unternehmen Konferenzen und Webinare professionell in der Umsetzungzu begleiten. (Eine eigene Website für diesen **Remote Events Service** folgt bald.)
 
-▶︎ [Unsere "Ask-the-Experts" Website besuchen](https://hubs.ly/H0rtCVv0)
+▶︎ [Unsere "Ask the expert!" Website besuchen](https://hubs.ly/H0rtCVv0)
 
 # Code of Conduct
 
