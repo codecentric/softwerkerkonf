@@ -12,7 +12,7 @@ Die Agenda und weitere Infos findest du auf unserer Website:
 
 ## [Stage](https://codecentric.zoom.us/j/94123178825?pwd=KzZFcm1xeERWNXkyVUtYN1JFZkxYQT09)
 
-Schau dir [alle Talks](https://info.codecentric.de/softwerkerkonf-2020) von 14:00 bis 21:00 hier an! Fragen an die Speaker\*innen bitte mit dem Zoom Q&A/FAQ-Tool stellen. In den letzten 5 Minuten greift eine Moderator\*in die besten Fragen von alle Zuschauer\*innen auf und stellt diese an unsere Speaker\*innen. Danach kannst du dich persönlich mit den Speaker\*innen im Hallway-Track weiter austauschen.
+Schau dir [alle Talks](https://info.codecentric.de/softwerkerkonf-2020) von 14:00 bis 21:00 hier an! Fragen an die Speaker\*innen bitte mit dem Zoom Q&A/FAQ-Tool stellen. In den letzten 5 Minuten greift eine Moderator\*in die besten Fragen von allen Zuschauer\*innen auf und stellt diese an unsere Speaker\*innen. Danach kannst du dich persönlich mit den Speaker\*innen im Hallway-Track weiter austauschen.
 
 ▶︎ [Zoom-Raum "Stage" betreten](https://codecentric.zoom.us/j/94123178825?pwd=KzZFcm1xeERWNXkyVUtYN1JFZkxYQT09)
 
@@ -33,7 +33,7 @@ Vetreten durch **Diana Kupfer** und **Corinna Kern**. *Nur geöffnet von 14:00 b
 
 ## [Slack Diskussionsforum](https://join.slack.com/t/softwerkerkonf/shared_invite/zt-fdosk9rl-4yJRe0zlNMw1a1Cd16gTDw)
 
-Diskutiere mit uns und anderen Teilnehmer\*innen in den folgenden Channels: **#stage #hallway #softwerker**. Nutze einfach diesen Einladungslink, um beizutreten und mitzumachen:
+Diskutiere mit uns und anderen Teilnehmer\*innen in den folgenden Channels: **#stage #hallway #softwerker**. Nutze einfach diesen Einladungslink um beizutreten und mitzumachen:
 
 ▶︎ [Slack-Workspace "SoftwerkerKonf" beitreten](https://join.slack.com/t/softwerkerkonf/shared_invite/zt-fdosk9rl-4yJRe0zlNMw1a1Cd16gTDw)
 
