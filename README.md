@@ -4,7 +4,9 @@ Die Online-Konferenz rund um die Themen Softwarearchitektur, Cloud, DevOps, IT-I
 
 # Agenda
 
-Die Agenda und weitere Infos findest du auf unserer Website: [https://info.codecentric.de/softwerkerkonf-2020](https://info.codecentric.de/softwerkerkonf-2020)
+Die Agenda und weitere Infos findest du auf unserer Website: 
+
+▶︎ [info.codecentric.de/softwerkerkonf-2020](https://info.codecentric.de/softwerkerkonf-2020)
 
 # Räume
 
@@ -31,28 +33,21 @@ Vetreten durch **Diana Kupfer** und **Corinna Kern**. *Nur geöffnet von 14:00 b
 
 ## [Slack Diskussionsforum](https://join.slack.com/t/softwerkerkonf/shared_invite/zt-fdosk9rl-4yJRe0zlNMw1a1Cd16gTDw)
 
-Diskutiere mit uns und anderen Teilnehmer\*innen in den folgenden Channels: **#stage #hallway #softwerker**. Nutze einfach [diesen Einladungslink](https://join.slack.com/t/softwerkerkonf/shared_invite/zt-fdosk9rl-4yJRe0zlNMw1a1Cd16gTDw) um beizutreten und mitzumachen.
+Diskutiere mit uns und anderen Teilnehmer\*innen in den folgenden Channels: **#stage #hallway #softwerker**. Nutze einfach diesen Einladungslink, um beizutreten und mitzumachen.
 
-▶︎ [Slack-Workspace "SoftwerkerKonf" betreten](https://join.slack.com/t/softwerkerkonf/shared_invite/zt-fdosk9rl-4yJRe0zlNMw1a1Cd16gTDw)
+▶︎ [Slack "SoftwerkerKonf" beitreten](https://join.slack.com/t/softwerkerkonf/shared_invite/zt-fdosk9rl-4yJRe0zlNMw1a1Cd16gTDw)
 
 ## [Miro Whiteboard](https://miro.com/app/board/o9J_kq1eEyU=/)
 
 Wir nutzen ein digitales Whiteboard, welches alle Speaker\*innen, Moderator\*innen und Redakteuer\*innen aus dem Zoom-Räumen editieren und teilen können. Du hast auch Kommentierzugriff und kannst News sowie alle Ausgaben des Softwerkers hier entdecken.
 
-▶︎ [Whiteboard "SoftwerkerKonf" auf Miro anschauen](https://miro.com/app/board/o9J_kq1eEyU=/)
+▶︎ [Miro Whiteboard öffnen](https://miro.com/app/board/o9J_kq1eEyU=/)
 
-## [Talks bald auf YouTube](https://www.youtube.com/channel/UCCadM9XfyB78TEogPzwP7iQ/videos)
+## [Talks bald als YouTube Video](https://www.youtube.com/channel/UCCadM9XfyB78TEogPzwP7iQ)
 
-Alle Talks werden aufgezeichnet und von uns nach und nach auf YouTube ab kommender Woche in einer neuen SoftwerkerKonf Playlist veröffentlicht. Abonniere schon jetzt [unseren codecentric Kanal](https://www.youtube.com/channel/UCCadM9XfyB78TEogPzwP7iQ) um kein Video zu verpassen und entdecke noch viel weitere spannende Vorträge von uns!
+Alle Talks werden aufgezeichnet und von uns nach und nach auf YouTube ab kommender Woche in einer neuen SoftwerkerKonf Playlist veröffentlicht. Abonniere schon jetzt unseren codecentric Kanal um kein Video zu verpassen und entdecke noch viel weitere spannende Vorträge von uns!
 
-▶︎ [Talks auf YouTube anschauen](https://www.youtube.com/channel/UCCadM9XfyB78TEogPzwP7iQ/videos)
-
-
-## [Slides bald auf Speaker Deck](https://speakerdeck.com/softwerkerkonf)
-
-Die Slides/Vortragsfolien aller Talks findest Du bereits ab Anfang nächster Woche auf SpeakerDeck.
-
-▶︎ [Slides auf Speaker Deck anschauen](https://speakerdeck.com/softwerkerkonf)
+▶︎ [codecentric auf YouTube](https://www.youtube.com/channel/UCCadM9XfyB78TEogPzwP7iQ)
 
 
 # Code of Conduct
