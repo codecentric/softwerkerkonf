@@ -57,6 +57,14 @@ Die Slides/Vortragsfolien aller Talks findest Du bereits ab Anfang nächster Woc
 
 ▶︎ [Slides auf Speaker Deck anschauen](https://speakerdeck.com/softwerkerkonf)
 
+## [Ask-the-Experts](https://hubs.ly/H0rtCVv0) & Remote Events
+
+Dir hat unsere Konferenz gefallen? Dann kannst du ab sofort auch unsere Expert\*innen – darunter einige der heutigen Speaker\*innen – direkt und unkompliziert für eine einstündige Beratung buchen. 
+
+Zudem bieten wir an für Dich und Dein Unternehmen Konferenzen und Webinare professionell in der Umsetzung zu begleiten. (Eine eigene Website für diese Angebot folgt bald.)
+
+▶︎ [Unsere "Ask-the-Experts" Website besuchen](https://hubs.ly/H0rtCVv0)
+
 # Code of Conduct
 
 All attendees, speakers, sponsors and volunteers at our conference are required to agree with the following code of conduct. Organisers will enforce this code throughout the event. We are expecting cooperation from all participants to help ensuring a safe environment for everybody.
