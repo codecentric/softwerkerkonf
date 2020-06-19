@@ -1,4 +1,4 @@
-## Die Online Konferenz zum [Softwerker Magazin](https://www.dersoftwerker.de)
+## Online-Konferenz zum [Softwerker Magazin](https://www.dersoftwerker.de)
 
 Hashtags: #softwerkerkonf #dersoftwerker 
 
