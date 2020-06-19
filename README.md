@@ -25,11 +25,11 @@ Vetreten durch **Diana Kupfer** und **Corinna Kern**. *Nur geöffnet von 14:00 b
 
 ## [Slack Diskussionsforum](https://join.slack.com/t/softwerkerkonf/shared_invite/zt-fdosk9rl-4yJRe0zlNMw1a1Cd16gTDw)
 
-Diskutiere mit uns und anderen Teilnehmer\*innen in den folgenden Channels: #stage #hallway #softwerker. [Hier der Einladungslink](https://join.slack.com/t/softwerkerkonf/shared_invite/zt-fdosk9rl-4yJRe0zlNMw1a1Cd16gTDw) um beizutreten.
+Diskutiere mit uns und anderen Teilnehmer\*innen in den folgenden Channels: **#stage #hallway #softwerker**. Nutze einfach [diesen Einladungslink](https://join.slack.com/t/softwerkerkonf/shared_invite/zt-fdosk9rl-4yJRe0zlNMw1a1Cd16gTDw) um beizutreten und mitzumachen.
 
 ## [Miro Whiteboard](https://miro.com/app/board/o9J_kq1eEyU=/)
 
-Wir nutzen ein Digitales Whiteboard, welches alle Speaker\*innen, Moderator\*innen und Redakteuer\*innen aus dem Zoom-Räumen verwenden können. Du hast auch Kommentierzugriff und kannst News sowie alle Ausgaben des Softwerkers entdecken.
+Wir nutzen ein digitales Whiteboard, welches alle Speaker\*innen, Moderator\*innen und Redakteuer\*innen aus dem Zoom-Räumen editieren und teilen können. Du hast auch Kommentierzugriff und kannst News sowie alle Ausgaben des Softwerkers hier entdecken.
 
 # Code of Conduct
 
