@@ -61,7 +61,7 @@ Die Slides/Vortragsfolien aller Talks findest Du bereits ab Anfang nächster Woc
 
 Dir hat unsere Konferenz gefallen? Dann kannst du ab sofort auch unsere Expert\*innen – darunter einige der heutigen Speaker\*innen – direkt und unkompliziert für eine einstündige Beratung buchen. 
 
-Zudem bieten wir an für Dich und Dein Unternehmen Konferenzen und Webinare professionell in der Umsetzungzu begleiten. (Eine eigene Website für diesen **Remote Events Service** folgt bald.)
+Zudem bieten wir an für Dich und Dein Unternehmen Konferenzen und Webinare professionell in der Umsetzung zu begleiten. (Eine eigene Website für diesen neuen **Remote Events Service** folgt in Kürze.)
 
 ▶︎ [Unsere "Ask the expert!" Website besuchen](https://hubs.ly/H0rtCVv0)
 
