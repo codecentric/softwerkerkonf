@@ -4,7 +4,9 @@ Die Online-Konferenz rund um die Themen Softwarearchitektur, Cloud, DevOps, IT-I
 
 # Agenda
 
-Die Agenda und weitere Infos findest du auf unserer Website: [https://info.codecentric.de/softwerkerkonf-2020](https://info.codecentric.de/softwerkerkonf-2020)
+Die Agenda und weitere Infos findest du auf unserer Website:
+
+▶︎ [info.codecentric.de/softwerkerkonf-2020](https://info.codecentric.de/softwerkerkonf-2020)
 
 # Räume
 
@@ -31,9 +33,9 @@ Vetreten durch **Diana Kupfer** und **Corinna Kern**. *Nur geöffnet von 14:00 b
 
 ## [Slack Diskussionsforum](https://join.slack.com/t/softwerkerkonf/shared_invite/zt-fdosk9rl-4yJRe0zlNMw1a1Cd16gTDw)
 
-Diskutiere mit uns und anderen Teilnehmer\*innen in den folgenden Channels: **#stage #hallway #softwerker**. Nutze einfach [diesen Einladungslink](https://join.slack.com/t/softwerkerkonf/shared_invite/zt-fdosk9rl-4yJRe0zlNMw1a1Cd16gTDw) um beizutreten und mitzumachen.
+Diskutiere mit uns und anderen Teilnehmer\*innen in den folgenden Channels: **#stage #hallway #softwerker**. Nutze einfach diesen Einladungslink, um beizutreten und mitzumachen:
 
-▶︎ [Slack-Workspace "SoftwerkerKonf" betreten](https://join.slack.com/t/softwerkerkonf/shared_invite/zt-fdosk9rl-4yJRe0zlNMw1a1Cd16gTDw)
+▶︎ [Slack-Workspace "SoftwerkerKonf" beitreten](https://join.slack.com/t/softwerkerkonf/shared_invite/zt-fdosk9rl-4yJRe0zlNMw1a1Cd16gTDw)
 
 ## [Miro Whiteboard](https://miro.com/app/board/o9J_kq1eEyU=/)
 
