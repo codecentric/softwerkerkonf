@@ -1,18 +1,20 @@
 ## Hashtags: #softwerkerkonf #dersoftwerker 
 
+Die Online-Konferenz rund um die Themen Softwarearchitektur, Cloud, DevOps, IT-Infrastruktur, Security, Frontend und vieles mehr!
+
 # Agenda
 
-Die Agenda und weitere Infos findet ihr auf unserer Website [https://info.codecentric.de/softwerkerkonf-2020](https://info.codecentric.de/softwerkerkonf-2020)
+Die Agenda und weitere Infos findest du auf unserer Website: [https://info.codecentric.de/softwerkerkonf-2020](https://info.codecentric.de/softwerkerkonf-2020)
 
 # Räume
 
 ## [Stage](https://codecentric.zoom.us/j/94123178825?pwd=KzZFcm1xeERWNXkyVUtYN1JFZkxYQT09)
 
-Schau Dir [alle Talks](https://info.codecentric.de/softwerkerkonf-2020) von 14:00 bis 21:00 hier an! Fragen an die Speaker\*innen bitte mit dem Zoom Q&A/FAQ-Tool stellen. In den letzten 5 Minuten greift die Moderator\*in die besten Fragen von Euch auf und stellt diese an unsere Speaker\*innen. Danach kannst Du dich ganz persönlich mit den Speaker\*innen im Hallway-Track weiter austauschen.
+Schau dir [alle Talks](https://info.codecentric.de/softwerkerkonf-2020) von 14:00 bis 21:00 hier an! Fragen an die Speaker\*innen bitte mit dem Zoom Q&A/FAQ-Tool stellen. In den letzten 5 Minuten greift eine Moderator\*in die besten Fragen von alle Zuschauer\*innen auf und stellt diese an unsere Speaker\*innen. Danach kannst du dich persönlich mit den Speaker\*innen im Hallway-Track weiter austauschen.
 
 ## [Hallway](https://codecentric.zoom.us/j/94421281164?pwd=dnk4bi80WmVGYmg5a2FqT2FhYWxlZz09)
 
-Im Hallway Track kannst Du dich ganz allgemeiner und offen mit anderen Konferenzteilnehmer\*innen und codcentricern austauschen. Zudem wechseln alle Speaker\*innen und unsere Moderator\*innen der Fragen am Ende eines Talks für weitere Diskussionsrunden mit Euch in diesen Raum (auch 1:1). Die Hallway bietet Breakout-Rooms an.
+Im Hallway-Track kannst du dich neben dem Austausch mit Speaker\*innen nach ihren Talks auch ganz allgemein und offen mit anderen Konferenzteilnehmer\*innen und codcentricern austauschen. Unsere moderierte Hallway bietet zudem Breakout-Rooms für kleine Gruppen und 1:1 an.
 
 ## [Softwerker](https://codecentric.zoom.us/j/97793421458?pwd=K095ZFBrRGxrNVEzUGFlMDdzNmRjQT09) Magazin Stand
 
@@ -21,13 +23,13 @@ Vetreten durch **Diana Kupfer** und **Corinna Kern**. *Nur geöffnet von 14:00 b
 
 # Kommunikationstools
 
-## [Slack Diskussionsforum](https://join.slack.com/t/softwerkerkonf/shared_invite/zt-fdosk9rl-4yJRe0zlNMw1a1Cd16gTDw) < Invite Link!
+## [Slack Diskussionsforum](https://join.slack.com/t/softwerkerkonf/shared_invite/zt-fdosk9rl-4yJRe0zlNMw1a1Cd16gTDw)
 
-Diskutiere mit uns und anderen Teilnehmer\*innen in den Channels #stage #hallway #softwerker
+Diskutiere mit uns und anderen Teilnehmer\*innen in den folgenden Channels: #stage #hallway #softwerker. [Hier der Einladungslink](https://join.slack.com/t/softwerkerkonf/shared_invite/zt-fdosk9rl-4yJRe0zlNMw1a1Cd16gTDw) um beizutreten.
 
 ## [Miro Whiteboard](https://miro.com/app/board/o9J_kq1eEyU=/)
 
-Als Support im Hallway Track.
+Wir nutzen ein Digitales Whiteboard, welches alle Speaker\*innen, Moderator\*innen und Redakteuer\*innen aus dem Zoom-Räumen verwenden können. Du hast auch Kommentierzugriff und kannst News sowie alle Ausgaben des Softwerkers entdecken.
 
 # Code of Conduct
 
