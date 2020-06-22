@@ -2,10 +2,23 @@
 
 Die Online-Konferenz rund um die Themen Softwarearchitektur, Cloud, DevOps, IT-Infrastruktur, Security, Frontend und vieles mehr!
 
-# Unterlagen
+# Unterlagen und Umfrage
 
-Vielen Dank an alle Teilnehmer*innen, dass ihre unsere erste Konferenz zu einem tollen Erfolg gemacht habt. Hier findet ihr nun alle Unterlagen. (Weiter unten sind noch die ursprünglichen Infos, sodass ihr auch darauf noch zugreifen könnt.)
+Vielen Dank an alle Teilnehmer*innen, dass ihr unsere erste Konferenz zu einem tollen Erfolg gemacht habt. Hier findet ihr nun alle Unterlagen. (Weiter unten sind noch die ursprünglichen Infos, sodass ihr auch darauf noch zugreifen könnt.)
 
+## Umfrage (2 Minuten)
+
+Bitte nehmt Euch 2 Minuten Zeit um an unserer sehr kurzen Umfrage "Feedback zur SoftwerkerKonf 2020" teilzunehmen. Wir als Organsitorenteam mit Moderator*innen und Redakteur*innen sind gespannt zu erfahren wo wir noch besser werden können um Euch ein besseres Erlebnis bieten zu können. Auch die Speaker*innen freuen sich über eine kurzes Statement/Bewertung ihrer Talks. Vielen Dank hierfür.
+
+▶︎ [Teilnehmer*innen Umfrage aufrufen](https://speakerdeck.com/softwerkerkonf)
+
+## Sales und Konferenzansprechpartnerin
+
+Habt ihr über die Umfrage hinaus noch Anregungen oder interessiert ihr Euch für die Dienstleistungen von codecentric dann wendet Euch gerne an unsere Ansprechpartner*in Marina Wottschall.
+
+▶︎ [Direkt einen Termin mit Marina Wottschal vereinbaren](https://app.hubspot.com/meetings/benjamin-nothdurft)
+
+▶︎ Mail an <marina.wottschal@codecentric.de> senden
 
 ## [Slides auf Speaker Deck](https://speakerdeck.com/softwerkerkonf)
 
@@ -25,13 +38,22 @@ Alle Talks wurden aufgezeichnet und von uns nach und nach auf YouTube in einer n
 
 ---
 
-# Weitere Angebote der codecentric
+# Weitere Angebote der codecentric AG
 
-## Sales-Ansprechpartnerin
+## [Ask the expert!](https://hubs.ly/H0rtCVv0) 
 
-Du inter
+Dir hat unsere Konferenz gefallen? Dann kannst du ab sofort auch unsere Expert\*innen – darunter einige der heutigen Speaker\*innen – direkt und unkompliziert für eine einstündige Beratung buchen. 
 
-▶︎ Mail marina.wottschal@codecentric.de
+▶︎ [Unsere "Ask the expert!" Website besuchen](https://hubs.ly/H0rtCVv0)
+
+## [Remote Events Service]
+
+Zudem bieten wir für Dich und Dein Unternehmen an digitale Events wie Webinare, Workshops, Messen und Konferenzen professionell in der technischen Umsetzung zu begleiten. (Eine eigene Website für diesen neuen **Remote Events Service** folgt in Kürze. Bis dahin stehen wir Dir per Direkttermin oder per Mail gerne im Erstkontakt zur Verfügung.)
+
+▶︎ [Direkt einen Termin mit Benjamin Nothdurft vereinbaren](https://app.hubspot.com/meetings/benjamin-nothdurft)
+
+▶︎ Mail an <benjamin.nothdurft@codecentric.de> senden
+
 
 ---
 
@@ -76,16 +98,6 @@ Wir nutzen ein digitales Whiteboard, welches alle Speaker\*innen, Moderator\*inn
 
 ▶︎ [Whiteboard "SoftwerkerKonf" auf Miro anschauen](https://miro.com/app/board/o9J_kq1eEyU=/)
 
-
-
-## [Ask the expert!](https://hubs.ly/H0rtCVv0) und Remote Events Service
-
-Dir hat unsere Konferenz gefallen? Dann kannst du ab sofort auch unsere Expert\*innen – darunter einige der heutigen Speaker\*innen – direkt und unkompliziert für eine einstündige Beratung buchen. 
-
-Zudem bieten wir an für Dich und Dein Unternehmen Konferenzen und Webinare professionell in der Umsetzung zu begleiten. (Eine eigene Website für diesen neuen **Remote Events Service** folgt in Kürze.)
-
-▶︎ [Unsere "Ask the expert!" Website besuchen](https://hubs.ly/H0rtCVv0)
-
 ---
 
 # Code of Conduct
@@ -104,7 +116,7 @@ Our conference is dedicated to providing a harassment-free conference experience
 
 Im Falle der Verletzung des Code of Conducts kannst Du Dich gerne an Marina Wottschal wenden:
 
-▶︎ Mail marina.wottschal@codecentric.de
+▶︎ Mail <marina.wottschal@codecentric.de>
 
 ▶︎ Notfallnummer (nur während der Konferenz angezeigt)
 
