@@ -2,32 +2,41 @@
 
 Die Online-Konferenz rund um die Themen Softwarearchitektur, Cloud, DevOps, IT-Infrastruktur, Security, Frontend und vieles mehr!
 
-# Unterlagen und Umfrage
+# Umfrage, Unterlagen, Kontakt und Ausgewählte Angebote der codecentric
 
 Vielen Dank an alle Teilnehmer*innen, dass ihr unsere erste Konferenz zu einem tollen Erfolg gemacht habt. Hier findet ihr nun alle Unterlagen. (Weiter unten sind noch die ursprünglichen Infos, sodass ihr auch darauf noch zugreifen könnt.)
 
-## Umfrage (2 Minuten)
+## Umfrage (Dauer 3 Minuten)
 
-Bitte nehmt Euch 2 Minuten Zeit um an unserer sehr kurzen Umfrage "Feedback zur SoftwerkerKonf 2020" teilzunehmen. Wir als Organsitorenteam mit Moderator*innen und Redakteur*innen sind gespannt zu erfahren wo wir noch besser werden können um Euch ein besseres Erlebnis bieten zu können. Auch die Speaker*innen freuen sich über eine kurzes Statement/Bewertung ihrer Talks. Vielen Dank hierfür.
+Bitte nehmt Euch kurz Zeit um an unserer sehr kurzen Umfrage "Feedback zur SoftwerkerKonf 2020" teilzunehmen. Wir als Organisationsteam mit Moderator\*innen und Redakteur\*innen sind gespannt zu erfahren, wo wir noch optimieren können um Euch vielleicht ein nochmal spürbar besseres Erlebnis bieten zu können. Auch die Speaker\*innen freuen sich über eine kurzes Statement/Bewertung ihrer Talks. Vielen Dank hierfür.
 
 ▶︎ [Teilnehmer*innen Umfrage aufrufen](https://speakerdeck.com/softwerkerkonf)
 
-## Sales und Konferenzansprechpartnerin
+## Kontakt
 
-Habt ihr über die Umfrage hinaus noch Anregungen oder interessiert ihr Euch für die Dienstleistungen von codecentric dann wendet Euch gerne an unsere Ansprechpartner*in Marina Wottschall.
+### Konferenz- und Sales-Ansprechpartnerin
+
+Habt ihr über die Umfrage hinaus noch Anregungen oder ihr interessiert Euch für die Angebote, Dienstleistungen oderden Einstieg bei der codecentric dann wendet Euch gerne an unsere _unviserselle_ Ansprechpartnerin **Marina Wottschall**.
 
 ▶︎ [Direkt einen Termin mit Marina Wottschal vereinbaren](https://app.hubspot.com/meetings/benjamin-nothdurft)
 
 ▶︎ Mail an <marina.wottschal@codecentric.de> senden
 
-## [Slides auf Speaker Deck](https://speakerdeck.com/softwerkerkonf)
+### [Slack Diskussionsforum](https://join.slack.com/t/softwerkerkonf/shared_invite/zt-fdosk9rl-4yJRe0zlNMw1a1Cd16gTDw)
 
-Die Slides/Vortragsfolien aller Talks findest Du bereits auf Speaker Deck. Nach und nach laden wir alle hoch, sobald wir sie von den Speaker*innen bekommen haben!
+Nach der Konferenz ist vor der Konferenz. Im #hallway channel könnt ihr gerne weiterhin mit informell in Kontaktkommen. Wir freuen uns auf Euch!
+
+▶︎ [Slack-Workspace "SoftwerkerKonf" beitreten](https://join.slack.com/t/softwerkerkonf/shared_invite/zt-fdosk9rl-4yJRe0zlNMw1a1Cd16gTDw)
+
+## Unterlagen
+
+### [Slides auf Speaker Deck](https://speakerdeck.com/softwerkerkonf)
+
+Die Slides/Vortragsfolien aller Talks findest Du bereits auf Speaker Deck. Nach und nach laden wir alle hoch, sobald wir sie von den Speaker\*innen bekommen haben!
 
 ▶︎ [Slides auf Speaker Deck anschauen](https://speakerdeck.com/softwerkerkonf)
 
-
-## [Talks auf YouTube](https://www.youtube.com/channel/UCCadM9XfyB78TEogPzwP7iQ/videos)
+### [Talks auf YouTube](https://www.youtube.com/channel/UCCadM9XfyB78TEogPzwP7iQ/videos)
 
 Alle Talks wurden aufgezeichnet und von uns nach und nach auf YouTube in einer neuen SoftwerkerKonf Playlist veröffentlicht. Abonniere schon jetzt [unseren codecentric Kanal](https://www.youtube.com/channel/UCCadM9XfyB78TEogPzwP7iQ)um kein Video zu verpassen und entdecke noch viel weitere spannende Vorträge von uns!
 
@@ -35,12 +44,9 @@ Alle Talks wurden aufgezeichnet und von uns nach und nach auf YouTube in einer n
 
 ▶︎ [Playlist "SoftwerkerKonf" auf YouTube anschauen](https://www.youtube.com/playlist?list=PLD9VybHH2wnYtuaiEcjMH5n2gTgNSDYAV)
 
+## Ausgewählte Angebote
 
----
-
-# Weitere Angebote der codecentric AG
-
-## [Ask the expert!](https://hubs.ly/H0rtCVv0) 
+### [Ask the expert!](https://hubs.ly/H0rtCVv0) 
 
 Dir hat unsere Konferenz gefallen? Dann kannst du ab sofort auch unsere Expert\*innen – darunter einige der heutigen Speaker\*innen – direkt und unkompliziert für eine einstündige Beratung buchen. 
 
