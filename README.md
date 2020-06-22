@@ -2,6 +2,39 @@
 
 Die Online-Konferenz rund um die Themen Softwarearchitektur, Cloud, DevOps, IT-Infrastruktur, Security, Frontend und vieles mehr!
 
+# Unterlagen
+
+Vielen Dank an alle Teilnehmer*innen, dass ihre unsere erste Konferenz zu einem tollen Erfolg gemacht habt. Hier findet ihr nun alle Unterlagen. (Weiter unten sind noch die ursprünglichen Infos, sodass ihr auch darauf noch zugreifen könnt.)
+
+
+## [Slides auf Speaker Deck](https://speakerdeck.com/softwerkerkonf)
+
+Die Slides/Vortragsfolien aller Talks findest Du bereits auf Speaker Deck. Nach und nach laden wir alle hoch, sobald wir sie von den Speaker*innen bekommen haben!
+
+▶︎ [Slides auf Speaker Deck anschauen](https://speakerdeck.com/softwerkerkonf)
+
+
+## [Talks auf YouTube](https://www.youtube.com/channel/UCCadM9XfyB78TEogPzwP7iQ/videos)
+
+Alle Talks wurden aufgezeichnet und von uns nach und nach auf YouTube in einer neuen SoftwerkerKonf Playlist veröffentlicht. Abonniere schon jetzt [unseren codecentric Kanal](https://www.youtube.com/channel/UCCadM9XfyB78TEogPzwP7iQ)um kein Video zu verpassen und entdecke noch viel weitere spannende Vorträge von uns!
+
+▶︎ [Talks auf YouTube anschauen](https://www.youtube.com/channel/UCCadM9XfyB78TEogPzwP7iQ/videos)
+
+▶︎ [Playlist "SoftwerkerKonf" auf YouTube anschauen](https://www.youtube.com/playlist?list=PLD9VybHH2wnYtuaiEcjMH5n2gTgNSDYAV)
+
+
+---
+
+# Weitere Angebote der codecentric
+
+## Sales-Ansprechpartnerin
+
+Du inter
+
+▶︎ Mail marina.wottschal@codecentric.de
+
+---
+
 # Agenda
 
 Die Agenda und weitere Infos findest du auf unserer Website:
@@ -43,19 +76,7 @@ Wir nutzen ein digitales Whiteboard, welches alle Speaker\*innen, Moderator\*inn
 
 ▶︎ [Whiteboard "SoftwerkerKonf" auf Miro anschauen](https://miro.com/app/board/o9J_kq1eEyU=/)
 
-## [Talks bald auf YouTube](https://www.youtube.com/channel/UCCadM9XfyB78TEogPzwP7iQ/videos)
 
-Alle Talks werden aufgezeichnet und von uns nach und nach auf YouTube ab kommender Woche in einer neuen SoftwerkerKonf Playlist veröffentlicht. Abonniere schon jetzt [unseren codecentric Kanal](https://www.youtube.com/channel/UCCadM9XfyB78TEogPzwP7iQ) um kein Video zu verpassen und entdecke noch viel weitere spannende Vorträge von uns!
-
-▶︎ [Talks auf YouTube anschauen](https://www.youtube.com/channel/UCCadM9XfyB78TEogPzwP7iQ/videos)
-▶︎ [Playlist "SoftwerkerKonf" auf YouTube anschauen](https://www.youtube.com/playlist?list=PLD9VybHH2wnYtuaiEcjMH5n2gTgNSDYAV)
-
-
-## [Slides bald auf Speaker Deck](https://speakerdeck.com/softwerkerkonf)
-
-Die Slides/Vortragsfolien aller Talks findest Du bereits ab Anfang nächster Woche auf Speaker Deck.
-
-▶︎ [Slides auf Speaker Deck anschauen](https://speakerdeck.com/softwerkerkonf)
 
 ## [Ask the expert!](https://hubs.ly/H0rtCVv0) und Remote Events Service
 
@@ -64,6 +85,8 @@ Dir hat unsere Konferenz gefallen? Dann kannst du ab sofort auch unsere Expert\*
 Zudem bieten wir an für Dich und Dein Unternehmen Konferenzen und Webinare professionell in der Umsetzung zu begleiten. (Eine eigene Website für diesen neuen **Remote Events Service** folgt in Kürze.)
 
 ▶︎ [Unsere "Ask the expert!" Website besuchen](https://hubs.ly/H0rtCVv0)
+
+---
 
 # Code of Conduct
 
@@ -82,5 +105,6 @@ Our conference is dedicated to providing a harassment-free conference experience
 Im Falle der Verletzung des Code of Conducts kannst Du Dich gerne an Marina Wottschal wenden:
 
 ▶︎ Mail marina.wottschal@codecentric.de
-▶︎ Notfallnummer +491717801932
+
+▶︎ Notfallnummer (nur während der Konferenz angezeigt)
 
