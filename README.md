@@ -10,16 +10,16 @@ Vielen Dank an alle Teilnehmer\*innen, dass ihr unsere erste Konferenz zu einem 
 * [Unterlagen](#unterlagen)
 * [Ausgewählte Angebote](#angebote)
 * [Kontakt](#kontakt)
-* [Weiterführende Informationen](#weiterfuhrende-informationen)
-* [Code of Conduct](#code-of-conduct)
+* [Weiterführende Informationen](#informationen)
+* [Code of Conduct](#conduct)
 
-## [Umfrage](#umfrage)
+## <a name="umfrage">Umfrage</a>
 
 Bitte nehmt Euch 3 Minuten Zeit um an unserer sehr kurzen Umfrage "Feedback zur SoftwerkerKonf 2020" teilzunehmen. Wir als Organisationsteam sind gespannt zu erfahren, wo wir noch besser werden können. Auch die Speaker\*innen freuen sich über eine kurzes Statement/Bewertung ihrer Talks. Vielen Dank hierfür.
 
 ▶︎ [Teilnehmer*innen Umfrage aufrufen](https://forms.gle/T429bx7kz5xz1sZG9)
 
-## [Unterlagen](#unterlagen)
+## <a name="unterlagen">Unterlagen</a>
 
 ### Slides auf Speaker Deck
 
@@ -87,11 +87,7 @@ Hier bekommt ihr Informationen über uns als Arbeitgeber.
 
 ▶︎ [Karriere-Broschüre downloaden](https://info.codecentric.de/karrierebroschuere)
 
-
--------------------------------------------
-
-
-## Code of Conduct
+## <a name="conduct">Code of Conduct</a>
 
 All attendees, speakers, sponsors and volunteers at our conference are required to agree with the following code of conduct. Organisers will enforce this code throughout the event. We are expecting cooperation from all participants to help ensuring a safe environment for everybody.
 
