@@ -4,11 +4,11 @@ _Die Online-Konferenz rund um die Themen Softwarearchitektur, Cloud, DevOps, IT-
 
 # Nach der Konferenz...
 
-...erstmal herzlichen Dank an alle 800 Teilnehmer\*innen, dass ihr unsere erste Konferenz zu einem so tollen Erfolg gemacht habt. Hier findet ihr nun die Unterlagen und weitere Informationen.
+...ist vor der Konferenz und damit erstmal herzlichen Dank an alle 800 Teilnehmer\*innen, dass ihr unsere erste Konferenz zu einem so tollen Erfolg gemacht habt. Hier findet ihr nun die Unterlagen und weitere Informationen.
 
 ---
 
-**Alles rund um die [SoftwerkerKonf 2020](https://info.codecentric.de/softwerkerkonf-2020) im Überblick:**
+**Alles rund um die [SoftwerkerKonf 2020](https://info.codecentric.de/softwerkerkonf-2020) im Überblick**
 
 - [Umfrage](#umfrage)
 - [Unterlagen](#unterlagen)
@@ -75,7 +75,7 @@ Habt ihr über die Umfrage hinaus noch Anregungen oder ihr interessiert Euch fü
 
 ### Offenes Diskussionsforum
 
-Nach der Konferenz ist vor der Konferenz. Im #hallway channel unseres <softwerkerkonf.slack.com> Workspaces könnt ihr gerne weiterhin informell in Kontakt bleiben bzw. kommen. Wir freuen uns auf Euch und überlegen diesen Slack für weitere Formate offen zu halten. Pst!
+Im #hallway channel unseres <softwerkerkonf.slack.com> Workspaces könnt ihr gerne weiterhin informell in Kontakt bleiben bzw. kommen. Wir freuen uns auf Euch und überlegen diesen Slack für baldige weitere regelmäßige neue Formate offen zu halten. Pssst!
 
 ▶︎ [Slack-Workspace "SoftwerkerKonf" beitreten](https://join.slack.com/t/softwerkerkonf/shared_invite/zt-fdosk9rl-4yJRe0zlNMw1a1Cd16gTDw)
 
