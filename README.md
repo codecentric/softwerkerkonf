@@ -69,14 +69,23 @@ Nach der Konferenz ist vor der Konferenz. Im #hallway channel unseres <softwerke
 
 ## [Weiterführende Informationen zur codecentric AG](#informationen)
 
-### [Newsletter](https://www.codecentric.de/newsletter/)
+### Der Softwerker
+
+Unser alle drei Monate erscheinendes Magazin "Der Softwerker" könnt ihr als Print- und Digitalversion abonnieren. 
+
+▶︎ [Softwerker Magazin abonnieren](https://www.codecentric.de/wissen/softwerker/)
+
+### Newsletter
+
 Falls ihr auch in Zukunft informiert werden wollt über Neuigkeiten und Events bei der codecentric, könnt Ihr euch zu unserem monatlichen Newsletter anmelden.
 
-### [Softwerker-Abo](https://www.codecentric.de/wissen/softwerker/)
-Unser alle drei Monate erscheinendes Magazin "Der Softwerker" könnt ihr als Print- und Digitalversion abbonieren. 
+▶︎ [Newsletter abonnieren](https://www.codecentric.de/newsletter/)
 
-### [Karriere-Broschüre](https://info.codecentric.de/karrierebroschuere)
+### Karriere-Broschüre
+
 Hier bekommt ihr Informationen über uns als Arbeitgeber. 
+
+▶︎ [Karriere-Broschüre downloaden](https://info.codecentric.de/karrierebroschuere)
 
 
 -------------------------------------------
