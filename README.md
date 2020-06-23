@@ -7,10 +7,10 @@ Die Online-Konferenz rund um die Themen Softwarearchitektur, Cloud, DevOps, IT-I
 Vielen Dank an alle Teilnehmer*innen, dass ihr unsere erste Konferenz zu einem tollen Erfolg gemacht habt. Hier findet ihr nun alle Unterlagen. (Weiter unten sind noch die ursprünglichen Infos, sodass ihr auch darauf noch zugreifen könnt.)
 
 * [Umfrage](#umfrage)
-* Unterlagen
-* Ausgewählte Angebote
-* Kontakt
-* Weiterführende Informationen
+* [Unterlagen](#unterlagen)
+* [Ausgewählte Angebote](#angebote)
+* [Kontakt](#kontakt)
+* [Weiterführende Informationen](#informationen)
 * [Code of Conduct](#code-of-conduct)
 
 ## [Umfrage](#umfrage)
@@ -19,15 +19,15 @@ Bitte nehmt Euch 3 Minuten Zeit um an unserer sehr kurzen Umfrage "Feedback zur 
 
 ▶︎ [Teilnehmer*innen Umfrage aufrufen](https://forms.gle/T429bx7kz5xz1sZG9)
 
-## Unterlagen
+## [Unterlagen](#unterlagen)
 
-### [Slides auf Speaker Deck](https://speakerdeck.com/softwerkerkonf)
+### Slides auf Speaker Deck
 
 Die Slides/Vortragsfolien aller Talks findest Du bereits auf Speaker Deck. Nach und nach laden wir alle hoch, sobald wir sie von den Speaker\*innen bekommen haben!
 
 ▶︎ [Slides auf Speaker Deck anschauen](https://speakerdeck.com/softwerkerkonf)
 
-### [Talks auf YouTube](https://www.youtube.com/channel/UCCadM9XfyB78TEogPzwP7iQ/videos)
+### Talks auf YouTube
 
 Alle Talks wurden aufgezeichnet und von uns nach und nach auf YouTube in einer neuen SoftwerkerKonf Playlist veröffentlicht. Abonniere schon jetzt [unseren codecentric Kanal](https://www.youtube.com/channel/UCCadM9XfyB78TEogPzwP7iQ)um kein Video zu verpassen und entdecke noch viel weitere spannende Vorträge von uns!
 
@@ -35,13 +35,13 @@ Alle Talks wurden aufgezeichnet und von uns nach und nach auf YouTube in einer n
 
 ▶︎ [Playlist "SoftwerkerKonf" auf YouTube anschauen](https://www.youtube.com/playlist?list=PLD9VybHH2wnYtuaiEcjMH5n2gTgNSDYAV)
 
-## Ausgewählte Angebote
+## [Ausgewählte Angebote](#angebote)
 
-### [Ask the expert!](https://hubs.ly/H0rtCVv0) 
+### "Ask the expert!"-Gespräche
 
 Dir hat unsere Konferenz gefallen? Dann kannst du ab sofort auch unsere Expert\*innen – darunter einige der heutigen Speaker\*innen – direkt und unkompliziert für eine einstündige Beratung buchen. 
 
-▶︎ [Unsere "Ask the expert!" Website besuchen](https://hubs.ly/H0rtCVv0)
+▶︎ [Unsere "Ask the expert!"-Termin buchen](https://hubs.ly/H0rtCVv0)
 
 ### Remote Events as a Service
 
@@ -51,7 +51,7 @@ Zudem bieten wir für Dich und Dein Unternehmen an digitale Events wie Webinare,
 
 ▶︎ Mail an <benjamin.nothdurft@codecentric.de> senden
 
-## Kontakt
+## [Kontakt](#kontakt)
 
 ### Konferenz- und Sales-Ansprechpartnerin
 
@@ -61,13 +61,13 @@ Habt ihr über die Umfrage hinaus noch Anregungen oder ihr interessiert Euch fü
 
 ▶︎ Mail an <marina.wottschal@codecentric.de> senden
 
-### [Slack Diskussionsforum](https://join.slack.com/t/softwerkerkonf/shared_invite/zt-fdosk9rl-4yJRe0zlNMw1a1Cd16gTDw)
+### Diskussionsforum
 
-Nach der Konferenz ist vor der Konferenz. Im #hallway channel könnt ihr gerne weiterhin informell in Kontakt kommen. Wir freuen uns auf Euch!
+Nach der Konferenz ist vor der Konferenz. Im #hallway channel unseres <softwerkerkonf.slack.com> Workspaces könnt ihr gerne weiterhin informell in Kontakt bleiben bzw. kommen. Wir freuen uns auf Euch und überlegen diesen Slack für weitere Formate offen zu halten. Pst.
 
 ▶︎ [Slack-Workspace "SoftwerkerKonf" beitreten](https://join.slack.com/t/softwerkerkonf/shared_invite/zt-fdosk9rl-4yJRe0zlNMw1a1Cd16gTDw)
 
-## Weiterführende Informationen zur codecentric
+## [Weiterführende Informationen zur codecentric AG](#informationen)
 
 ### [Newsletter](https://www.codecentric.de/newsletter/)
 Falls ihr auch in Zukunft informiert werden wollt über Neuigkeiten und Events bei der codecentric, könnt Ihr euch zu unserem monatlichen Newsletter anmelden.
