@@ -117,7 +117,7 @@ Our conference is dedicated to providing a harassment-free conference experience
 
 ### Mail und Notfallnummer
 
-Im Falle der Verletzung des Code of Conducts kannst Du Dich gerne an Marina Wottschal wenden:
+Im Falle der Verletzung des Code of Conducts kannst Du Dich gerne an Marina Wottschal wenden.
 
 ▶︎ Mail <marina.wottschal@codecentric.de>
 
