@@ -63,13 +63,13 @@ Habt ihr über die Umfrage hinaus noch Anregungen oder ihr interessiert Euch fü
 
 ▶︎ Mail an <marina.wottschal@codecentric.de> senden
 
-### Diskussionsforum
+### Offenes Diskussionsforum
 
 Nach der Konferenz ist vor der Konferenz. Im #hallway channel unseres <softwerkerkonf.slack.com> Workspaces könnt ihr gerne weiterhin informell in Kontakt bleiben bzw. kommen. Wir freuen uns auf Euch und überlegen diesen Slack für weitere Formate offen zu halten. Pst.
 
 ▶︎ [Slack-Workspace "SoftwerkerKonf" beitreten](https://join.slack.com/t/softwerkerkonf/shared_invite/zt-fdosk9rl-4yJRe0zlNMw1a1Cd16gTDw)
 
-## <a name="informationen">Weiterführende Informationen zur codecentric AG</a>
+## <a name="informationen">Weiterführende Informationen</a>
 
 ### Der Softwerker
 
