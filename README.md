@@ -6,14 +6,14 @@ Die Online-Konferenz rund um die Themen Softwarearchitektur, Cloud, DevOps, IT-I
 
 Vielen Dank an alle Teilnehmer*innen, dass ihr unsere erste Konferenz zu einem tollen Erfolg gemacht habt. Hier findet ihr nun alle Unterlagen. (Weiter unten sind noch die ursprünglichen Infos, sodass ihr auch darauf noch zugreifen könnt.)
 
-* Konferenzumfrage
+* [Umfrage](#umfrage)
 * Unterlagen
 * Ausgewählte Angebote
 * Kontakt
 * Weiterführende Informationen
-* Code of Conduct
+* [Code of Conduct](#code-of-conduct)
 
-## Konferenzumfrage (Dauer 3 Minuten)
+## [Umfrage](#umfrage)
 
 Bitte nehmt Euch 3 Minuten Zeit um an unserer sehr kurzen Umfrage "Feedback zur SoftwerkerKonf 2020" teilzunehmen. Wir als Organisationsteam sind gespannt zu erfahren, wo wir noch besser werden können. Auch die Speaker\*innen freuen sich über eine kurzes Statement/Bewertung ihrer Talks. Vielen Dank hierfür.
 
@@ -82,7 +82,7 @@ Hier bekommt ihr Informationen über uns als Arbeitgeber.
 -------------------------------------------
 
 
-# Code of Conduct
+## [Code of Conduct](#code-of-conduct)
 
 All attendees, speakers, sponsors and volunteers at our conference are required to agree with the following code of conduct. Organisers will enforce this code throughout the event. We are expecting cooperation from all participants to help ensuring a safe environment for everybody.
 
