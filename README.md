@@ -12,33 +12,6 @@ Bitte nehmt Euch 3 Minuten Zeit um an unserer sehr kurzen Umfrage "Feedback zur 
 
 ▶︎ [Teilnehmer*innen Umfrage aufrufen](https://forms.gle/T429bx7kz5xz1sZG9)
 
-## Kontakt
-
-### Konferenz- und Sales-Ansprechpartnerin
-
-Habt ihr über die Umfrage hinaus noch Anregungen oder ihr interessiert Euch für die Angebote, Dienstleistungen oder den Einstieg bei der codecentric dann wendet Euch gerne an unsere _unviserselle_ Ansprechpartnerin **Marina Wottschal**.
-
-▶︎ [Direkt einen Termin mit Marina Wottschal vereinbaren](https://app.hubspot.com/meetings/m-wottschal)
-
-▶︎ Mail an <marina.wottschal@codecentric.de> senden
-
-### [Slack Diskussionsforum](https://join.slack.com/t/softwerkerkonf/shared_invite/zt-fdosk9rl-4yJRe0zlNMw1a1Cd16gTDw)
-
-Nach der Konferenz ist vor der Konferenz. Im #hallway channel könnt ihr gerne weiterhin informell in Kontakt kommen. Wir freuen uns auf Euch!
-
-▶︎ [Slack-Workspace "SoftwerkerKonf" beitreten](https://join.slack.com/t/softwerkerkonf/shared_invite/zt-fdosk9rl-4yJRe0zlNMw1a1Cd16gTDw)
-
-## Weiterführende Informationen zur codecentric
-
-### [Newsletter](https://www.codecentric.de/newsletter/)
-Falls ihr auch in Zukunft informiert werden wollt über Neuigkeiten und Events bei der codecentric, könnt Ihr euch zu unserem monatlichen Newsletter anmelden.
-
-### [Softwerker-Abo](https://www.codecentric.de/wissen/softwerker/)
-Unser alle drei Monate erscheinendes Magazin "Der Softwerker" könnt ihr als Print- und Digitalversion abbonieren. 
-
-### [Karriere-Broschüre](https://info.codecentric.de/karrierebroschuere)
-Hier bekommt ihr Informationen über uns als Arbeitgeber. 
-
 ## Unterlagen
 
 ### [Slides auf Speaker Deck](https://speakerdeck.com/softwerkerkonf)
@@ -70,6 +43,33 @@ Zudem bieten wir für Dich und Dein Unternehmen an digitale Events wie Webinare,
 ▶︎ [Direkt einen Termin mit Benjamin Nothdurft vereinbaren](https://app.hubspot.com/meetings/benjamin-nothdurft)
 
 ▶︎ Mail an <benjamin.nothdurft@codecentric.de> senden
+
+## Kontakt
+
+### Konferenz- und Sales-Ansprechpartnerin
+
+Habt ihr über die Umfrage hinaus noch Anregungen oder ihr interessiert Euch für die Angebote, Dienstleistungen oder den Einstieg bei der codecentric dann wendet Euch gerne an unsere _unviserselle_ Ansprechpartnerin **Marina Wottschal**.
+
+▶︎ [Direkt einen Termin mit Marina Wottschal vereinbaren](https://app.hubspot.com/meetings/m-wottschal)
+
+▶︎ Mail an <marina.wottschal@codecentric.de> senden
+
+### [Slack Diskussionsforum](https://join.slack.com/t/softwerkerkonf/shared_invite/zt-fdosk9rl-4yJRe0zlNMw1a1Cd16gTDw)
+
+Nach der Konferenz ist vor der Konferenz. Im #hallway channel könnt ihr gerne weiterhin informell in Kontakt kommen. Wir freuen uns auf Euch!
+
+▶︎ [Slack-Workspace "SoftwerkerKonf" beitreten](https://join.slack.com/t/softwerkerkonf/shared_invite/zt-fdosk9rl-4yJRe0zlNMw1a1Cd16gTDw)
+
+## Weiterführende Informationen zur codecentric
+
+### [Newsletter](https://www.codecentric.de/newsletter/)
+Falls ihr auch in Zukunft informiert werden wollt über Neuigkeiten und Events bei der codecentric, könnt Ihr euch zu unserem monatlichen Newsletter anmelden.
+
+### [Softwerker-Abo](https://www.codecentric.de/wissen/softwerker/)
+Unser alle drei Monate erscheinendes Magazin "Der Softwerker" könnt ihr als Print- und Digitalversion abbonieren. 
+
+### [Karriere-Broschüre](https://info.codecentric.de/karrierebroschuere)
+Hier bekommt ihr Informationen über uns als Arbeitgeber. 
 
 
 -------------------------------------------
