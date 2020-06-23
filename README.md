@@ -22,7 +22,14 @@ Habt ihr über die Umfrage hinaus noch Anregungen oder ihr interessiert Euch fü
 
 ▶︎ Mail an <marina.wottschal@codecentric.de> senden
 
+### [Slack Diskussionsforum](https://join.slack.com/t/softwerkerkonf/shared_invite/zt-fdosk9rl-4yJRe0zlNMw1a1Cd16gTDw)
+
+Nach der Konferenz ist vor der Konferenz. Im #hallway channel könnt ihr gerne weiterhin mit informell in Kontaktkommen. Wir freuen uns auf Euch!
+
+▶︎ [Slack-Workspace "SoftwerkerKonf" beitreten](https://join.slack.com/t/softwerkerkonf/shared_invite/zt-fdosk9rl-4yJRe0zlNMw1a1Cd16gTDw)
+
 ## Weiterführende Informationen zur codecentric
+
 ### [Newsletter](https://www.codecentric.de/newsletter/)
 Falls ihr auch in Zukunft informiert werden wollt über Neuigkeiten und Events bei der codecentric, könnt Ihr euch zu unserem monatlichen Newsletter anmelden.
 
@@ -63,8 +70,6 @@ Zudem bieten wir für Dich und Dein Unternehmen an digitale Events wie Webinare,
 ▶︎ [Direkt einen Termin mit Benjamin Nothdurft vereinbaren](https://app.hubspot.com/meetings/benjamin-nothdurft)
 
 ▶︎ Mail an <benjamin.nothdurft@codecentric.de> senden
-
-
 
 
 -------------------------------------------
