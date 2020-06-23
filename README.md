@@ -8,25 +8,29 @@ Vielen Dank an alle Teilnehmer*innen, dass ihr unsere erste Konferenz zu einem t
 
 ## Umfrage (Dauer 3 Minuten)
 
-Bitte nehmt Euch kurz Zeit um an unserer sehr kurzen Umfrage "Feedback zur SoftwerkerKonf 2020" teilzunehmen. Wir als Organisationsteam mit Moderator\*innen und Redakteur\*innen sind gespannt zu erfahren, wo wir noch optimieren können um Euch vielleicht ein nochmal spürbar besseres Erlebnis bieten zu können. Auch die Speaker\*innen freuen sich über eine kurzes Statement/Bewertung ihrer Talks. Vielen Dank hierfür.
+Bitte nehmt Euch 3 Minuten Zeit um an unserer sehr kurzen Umfrage "Feedback zur SoftwerkerKonf 2020" teilzunehmen. Wir als Organisationsteam sind gespannt zu erfahren, wo wir noch besser werden können. Auch die Speaker\*innen freuen sich über eine kurzes Statement/Bewertung ihrer Talks. Vielen Dank hierfür.
 
-▶︎ [Teilnehmer*innen Umfrage aufrufen](https://speakerdeck.com/softwerkerkonf)
+▶︎ [Teilnehmer*innen Umfrage aufrufen](https://forms.gle/T429bx7kz5xz1sZG9)
 
 ## Kontakt
 
 ### Konferenz- und Sales-Ansprechpartnerin
 
-Habt ihr über die Umfrage hinaus noch Anregungen oder ihr interessiert Euch für die Angebote, Dienstleistungen oderden Einstieg bei der codecentric dann wendet Euch gerne an unsere _unviserselle_ Ansprechpartnerin **Marina Wottschal**.
+Habt ihr über die Umfrage hinaus noch Anregungen oder ihr interessiert Euch für die Angebote, Dienstleistungen oder den Einstieg bei der codecentric dann wendet Euch gerne an unsere _unviserselle_ Ansprechpartnerin **Marina Wottschal**.
 
-▶︎ [Direkt einen Termin mit Marina Wottschal vereinbaren](https://app.hubspot.com/meetings/benjamin-nothdurft)
+▶︎ [Direkt einen Termin mit Marina Wottschal vereinbaren](https://app.hubspot.com/meetings/m-wottschal)
 
 ▶︎ Mail an <marina.wottschal@codecentric.de> senden
 
-### [Slack Diskussionsforum](https://join.slack.com/t/softwerkerkonf/shared_invite/zt-fdosk9rl-4yJRe0zlNMw1a1Cd16gTDw)
+## Weiterführende Informationen zur codecentric
+### [Newsletter](https://www.codecentric.de/newsletter/)
+Falls ihr auch in Zukunft informiert werden wollt über Neuigkeiten und Events bei der codecentric, könnt Ihr euch zu unserem monatlichen Newsletter anmelden.
 
-Nach der Konferenz ist vor der Konferenz. Im #hallway channel könnt ihr gerne weiterhin mit informell in Kontaktkommen. Wir freuen uns auf Euch!
+### [Softwerker-Abo](https://www.codecentric.de/wissen/softwerker/)
+Unser alle drei Monate erscheinendes Magazin "Der Softwerker" könnt ihr als Print- und Digitalversion abbonieren. 
 
-▶︎ [Slack-Workspace "SoftwerkerKonf" beitreten](https://join.slack.com/t/softwerkerkonf/shared_invite/zt-fdosk9rl-4yJRe0zlNMw1a1Cd16gTDw)
+### [Karriere-Broschüre](https://info.codecentric.de/karrierebroschuere)
+Hier bekommt ihr Informationen über uns als Arbeitgeber. 
 
 ## Unterlagen
 
@@ -61,7 +65,9 @@ Zudem bieten wir für Dich und Dein Unternehmen an digitale Events wie Webinare,
 ▶︎ Mail an <benjamin.nothdurft@codecentric.de> senden
 
 
----
+
+
+-------------------------------------------
 
 # Agenda
 
