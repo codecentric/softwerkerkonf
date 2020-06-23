@@ -1,8 +1,12 @@
 ## Hashtags: #softwerkerkonf #dersoftwerker 
 
-Die Online-Konferenz rund um die Themen Softwarearchitektur, Cloud, DevOps, IT-Infrastruktur, Security, Frontend und vieles mehr. Vielen Dank an alle Teilnehmer\*innen, dass ihr unsere erste Konferenz zu einem tollen Erfolg gemacht habt!
+Die Online-Konferenz rund um die Themen Softwarearchitektur, Cloud, DevOps, IT-Infrastruktur, Security, Frontend und vieles mehr. 
 
-**Alle Infos rund um die [SoftwerkerKonf 2020](https://info.codecentric.de/softwerkerkonf-2020)**
+# Nach der Konferenz...
+
+_...erstmal vielen Dank an alle Teilnehmer\*innen, dass ihr unsere erste Konferenz zu einem so tollen Erfolg gemacht habt!_
+
+**Alle Infos rund um die [SoftwerkerKonf 2020](https://info.codecentric.de/softwerkerkonf-2020) im Überblick:**
 
 - [Umfrage](#umfrage)
 - [Unterlagen](#unterlagen)
