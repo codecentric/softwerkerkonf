@@ -4,7 +4,7 @@ Die Online-Konferenz rund um die Themen Softwarearchitektur, Cloud, DevOps, IT-I
 
 # Nach der Konferenz...
 
-_...erstmal vielen Dank an alle Teilnehmer\*innen, dass ihr unsere erste Konferenz zu einem so tollen Erfolg gemacht habt!_
+_...erstmal vielen Dank an alle 800 Teilnehmer\*innen, dass ihr unsere erste Konferenz zu einem so tollen Erfolg gemacht habt!_
 
 **Alle Infos rund um die [SoftwerkerKonf 2020](https://info.codecentric.de/softwerkerkonf-2020) im Überblick:**
 
