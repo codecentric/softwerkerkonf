@@ -24,7 +24,7 @@ Habt ihr über die Umfrage hinaus noch Anregungen oder ihr interessiert Euch fü
 
 ### [Slack Diskussionsforum](https://join.slack.com/t/softwerkerkonf/shared_invite/zt-fdosk9rl-4yJRe0zlNMw1a1Cd16gTDw)
 
-Nach der Konferenz ist vor der Konferenz. Im #hallway channel könnt ihr gerne weiterhin mit informell in Kontaktkommen. Wir freuen uns auf Euch!
+Nach der Konferenz ist vor der Konferenz. Im #hallway channel könnt ihr gerne weiterhin informell in Kontakt kommen. Wir freuen uns auf Euch!
 
 ▶︎ [Slack-Workspace "SoftwerkerKonf" beitreten](https://join.slack.com/t/softwerkerkonf/shared_invite/zt-fdosk9rl-4yJRe0zlNMw1a1Cd16gTDw)
 
