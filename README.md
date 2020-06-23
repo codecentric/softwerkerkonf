@@ -8,9 +8,9 @@ Vielen Dank an alle Teilnehmer\*innen, dass ihr unsere erste Konferenz zu einem 
 
 * [Umfrage](#umfrage)
 * [Unterlagen](#unterlagen)
-* [Ausgewählte Angebote](#angebote)
+* [Ausgewählte Angebote](#ausgewaehlte-angebote)
 * [Kontakt](#kontakt)
-* [Weiterführende Informationen](#informationen)
+* [Weiterführende Informationen](#weiterführende-informationen)
 * [Code of Conduct](#code-of-conduct)
 
 ## [Umfrage](#umfrage)
