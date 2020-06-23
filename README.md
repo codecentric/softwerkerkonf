@@ -45,7 +45,7 @@ Alle Talks wurden aufgezeichnet und von uns nach und nach auf YouTube in einer n
 
 Dir hat unsere Konferenz gefallen? Dann kannst du ab sofort auch unsere Expert\*innen – darunter einige der SoftwerkerKonf-Speaker\*innen – direkt und unkompliziert für eine einstündige Beratung buchen. 
 
-▶︎ ["Ask the expert!"-Termin buchen](https://hubs.ly/H0rtCVv0)
+▶︎ ["Ask the expert!"-Termin vereinbaren](https://hubs.ly/H0rtCVv0)
 
 ### Remote Events as a Service
 
