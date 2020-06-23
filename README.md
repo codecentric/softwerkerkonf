@@ -35,7 +35,7 @@ Alle Talks wurden aufgezeichnet und von uns nach und nach auf YouTube in einer n
 
 ▶︎ [Playlist "SoftwerkerKonf" auf YouTube anschauen](https://www.youtube.com/playlist?list=PLD9VybHH2wnYtuaiEcjMH5n2gTgNSDYAV)
 
-## [Ausgewählte Angebote](#angebote)
+## <a name="angebote">[Ausgewählte Angebote]</a>
 
 ### "Ask the expert!"-Gespräche
 
