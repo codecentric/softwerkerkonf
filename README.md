@@ -23,6 +23,8 @@ Bitte nehmt Euch 3 Minuten Zeit um an unserer sehr kurzen Umfrage zur Softwerker
 
 ▶︎ [Teilnehmer*innen Umfrage aufrufen](https://forms.gle/T429bx7kz5xz1sZG9)
 
+---
+
 ## <a name="unterlagen">Unterlagen</a>
 
 ### Slides auf Speaker Deck
@@ -38,6 +40,8 @@ Alle Talks wurden aufgezeichnet und von uns nach und nach auf YouTube in einer n
 ▶︎ [codecentric auf YouTube abonnieren](https://www.youtube.com/channel/UCCadM9XfyB78TEogPzwP7iQ/videos)
 
 ▶︎ [Playlist "SoftwerkerKonf" auf YouTube anschauen](https://www.youtube.com/playlist?list=PLD9VybHH2wnYtuaiEcjMH5n2gTgNSDYAV)
+
+---
 
 ## <a name="angebote">Ausgewählte Angebote</a>
 
@@ -55,6 +59,8 @@ Zudem bieten wir für Dich und Dein Unternehmen an digitale Events wie Webinare,
 
 ▶︎ Mail an <benjamin.nothdurft@codecentric.de> senden
 
+---
+
 ## <a name="kontakt">Kontakt</a>
 
 ### Konferenz- und Sales-Ansprechpartnerin
@@ -70,6 +76,8 @@ Habt ihr über die Umfrage hinaus noch Anregungen oder ihr interessiert Euch fü
 Nach der Konferenz ist vor der Konferenz. Im #hallway channel unseres <softwerkerkonf.slack.com> Workspaces könnt ihr gerne weiterhin informell in Kontakt bleiben bzw. kommen. Wir freuen uns auf Euch und überlegen diesen Slack für weitere Formate offen zu halten. Pst!
 
 ▶︎ [Slack-Workspace "SoftwerkerKonf" beitreten](https://join.slack.com/t/softwerkerkonf/shared_invite/zt-fdosk9rl-4yJRe0zlNMw1a1Cd16gTDw)
+
+---
 
 ## <a name="informationen">Weiterführende Informationen</a>
 
@@ -90,6 +98,8 @@ Falls ihr auch in Zukunft informiert werden wollt über Neuigkeiten und Events b
 Hier bekommt ihr Informationen über uns als Arbeitgeber. 
 
 ▶︎ [Karriere-Broschüre downloaden](https://info.codecentric.de/karrierebroschuere)
+
+---
 
 ## <a name="conduct">Code of Conduct</a>
 
