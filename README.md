@@ -16,7 +16,7 @@ Bitte nehmt Euch kurz Zeit um an unserer sehr kurzen Umfrage "Feedback zur Softw
 
 ### Konferenz- und Sales-Ansprechpartnerin
 
-Habt ihr über die Umfrage hinaus noch Anregungen oder ihr interessiert Euch für die Angebote, Dienstleistungen oderden Einstieg bei der codecentric dann wendet Euch gerne an unsere _unviserselle_ Ansprechpartnerin **Marina Wottschall**.
+Habt ihr über die Umfrage hinaus noch Anregungen oder ihr interessiert Euch für die Angebote, Dienstleistungen oderden Einstieg bei der codecentric dann wendet Euch gerne an unsere _unviserselle_ Ansprechpartnerin **Marina Wottschal**.
 
 ▶︎ [Direkt einen Termin mit Marina Wottschal vereinbaren](https://app.hubspot.com/meetings/benjamin-nothdurft)
 
