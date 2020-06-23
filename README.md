@@ -4,7 +4,7 @@ Die Online-Konferenz rund um die Themen Softwarearchitektur, Cloud, DevOps, IT-I
 
 # Nach der Konferenz...
 
-Vielen Dank an alle Teilnehmer*innen, dass ihr unsere erste Konferenz zu einem tollen Erfolg gemacht habt. Hier nun alle Infos zur Konferenz:
+Vielen Dank an alle Teilnehmer\*innen, dass ihr unsere erste Konferenz zu einem tollen Erfolg gemacht habt. Hier findet ihr nun **alle Infos rund um die SoftwerkerKonf 2020**:
 
 * [Umfrage](#umfrage)
 * [Unterlagen](#unterlagen)
