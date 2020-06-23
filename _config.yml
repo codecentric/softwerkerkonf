@@ -2,3 +2,6 @@ title: SoftwerkerKonf
 theme: jekyll-theme-minimal
 description: .
 logo: softwerkerkonf-logo.png	
+
+plugins:
+ - github-pages
