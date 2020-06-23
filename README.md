@@ -35,7 +35,7 @@ Alle Talks wurden aufgezeichnet und von uns nach und nach auf YouTube in einer n
 
 ▶︎ [Playlist "SoftwerkerKonf" auf YouTube anschauen](https://www.youtube.com/playlist?list=PLD9VybHH2wnYtuaiEcjMH5n2gTgNSDYAV)
 
-## <a name="angebote">[Ausgewählte Angebote]</a>
+## <a name="angebote">Ausgewählte Angebote</a>
 
 ### "Ask the expert!"-Gespräche
 
@@ -51,7 +51,7 @@ Zudem bieten wir für Dich und Dein Unternehmen an digitale Events wie Webinare,
 
 ▶︎ Mail an <benjamin.nothdurft@codecentric.de> senden
 
-## [Kontakt](#kontakt)
+## <a name="kontakt">Kontakt</a>
 
 ### Konferenz- und Sales-Ansprechpartnerin
 
@@ -67,7 +67,7 @@ Nach der Konferenz ist vor der Konferenz. Im #hallway channel unseres <softwerke
 
 ▶︎ [Slack-Workspace "SoftwerkerKonf" beitreten](https://join.slack.com/t/softwerkerkonf/shared_invite/zt-fdosk9rl-4yJRe0zlNMw1a1Cd16gTDw)
 
-## [Weiterführende Informationen zur codecentric AG](#informationen)
+## <a name="informationen">Weiterführende Informationen zur codecentric AG</a>
 
 ### Der Softwerker
 
