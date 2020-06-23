@@ -33,9 +33,9 @@ Die Slides/Vortragsfolien aller Talks findest Du bereits auf Speaker Deck. Nach 
 
 ### Talks auf YouTube
 
-Alle Talks wurden aufgezeichnet und von uns nach und nach auf YouTube in einer neuen SoftwerkerKonf Playlist veröffentlicht. Abonniere schon jetzt [unseren codecentric Kanal](https://www.youtube.com/channel/UCCadM9XfyB78TEogPzwP7iQ)um kein Video zu verpassen und entdecke noch viel weitere spannende Vorträge von uns!
+Alle Talks wurden aufgezeichnet und von uns nach und nach auf YouTube in einer neuen SoftwerkerKonf Playlist veröffentlicht. Abonniere schon jetzt [unseren codecentric Kanal](https://www.youtube.com/channel/UCCadM9XfyB78TEogPzwP7iQ) um kein Video zu verpassen und entdecke noch viel weitere spannende Vorträge von uns!
 
-▶︎ [Talks auf YouTube anschauen](https://www.youtube.com/channel/UCCadM9XfyB78TEogPzwP7iQ/videos)
+▶︎ [codecentric auf YouTube abonnieren](https://www.youtube.com/channel/UCCadM9XfyB78TEogPzwP7iQ/videos)
 
 ▶︎ [Playlist "SoftwerkerKonf" auf YouTube anschauen](https://www.youtube.com/playlist?list=PLD9VybHH2wnYtuaiEcjMH5n2gTgNSDYAV)
 
