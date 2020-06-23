@@ -57,7 +57,7 @@ Dir hat unsere Konferenz gefallen? Dann kannst du ab sofort auch unsere Expert\*
 
 Zudem bieten wir für Dich und Dein Unternehmen an digitale Events wie Webinare, Workshops, Messen und Konferenzen professionell in der technischen Umsetzung zu begleiten. (Eine eigene Website für diesen neuen **Remote Events Service** folgt in Kürze. Bis dahin stehen wir Dir per Direkttermin oder per Mail gerne im Erstkontakt zur Verfügung.)
 
-▶︎ [Direkt einen Termin mit Benjamin Nothdurft vereinbaren](https://app.hubspot.com/meetings/benjamin-nothdurft)
+▶︎ [Termin mit Benjamin Nothdurft vereinbaren](https://app.hubspot.com/meetings/benjamin-nothdurft)
 
 ▶︎ Mail an <benjamin.nothdurft@codecentric.de> senden
 
@@ -69,7 +69,7 @@ Zudem bieten wir für Dich und Dein Unternehmen an digitale Events wie Webinare,
 
 Habt ihr über die Umfrage hinaus noch Anregungen oder ihr interessiert Euch für die Angebote, Dienstleistungen oder den Einstieg bei der codecentric dann wendet Euch gerne an unsere _unvierselle_ Ansprechpartnerin **Marina Wottschal**.
 
-▶︎ [Direkt einen Termin mit Marina Wottschal vereinbaren](https://app.hubspot.com/meetings/m-wottschal)
+▶︎ [Termin mit Marina Wottschal vereinbaren](https://app.hubspot.com/meetings/m-wottschal)
 
 ▶︎ Mail an <marina.wottschal@codecentric.de> senden
 
