@@ -67,7 +67,7 @@ Zudem bieten wir für Dich und Dein Unternehmen an digitale Events wie Webinare,
 
 ### Konferenz- und Sales-Ansprechpartnerin
 
-Habt ihr über die Umfrage hinaus noch Anregungen oder ihr interessiert Euch für die Angebote, Dienstleistungen oder den Einstieg bei der codecentric dann wendet Euch gerne an unsere _unvierselle_ Ansprechpartnerin **Marina Wottschal**.
+Habt ihr über die Umfrage hinaus noch Anregungen oder ihr interessiert Euch für die Angebote, Dienstleistungen oder den Einstieg bei der codecentric dann wendet Euch gerne an unsere Ansprechpartnerin **Marina Wottschal**.
 
 ▶︎ [Termin mit Marina Wottschal vereinbaren](https://app.hubspot.com/meetings/m-wottschal)
 
@@ -95,11 +95,11 @@ Falls ihr auch in Zukunft informiert werden wollt über Neuigkeiten und Events b
 
 ▶︎ [Newsletter abonnieren](https://www.codecentric.de/newsletter/)
 
-### Karriere-Broschüre
+### Karrierebroschüre
 
 Hier bekommt ihr Informationen über uns als Arbeitgeber. 
 
-▶︎ [Karriere-Broschüre downloaden](https://info.codecentric.de/karrierebroschuere)
+▶︎ [Karrierebroschüre downloaden](https://info.codecentric.de/karrierebroschuere)
 
 ---
 
