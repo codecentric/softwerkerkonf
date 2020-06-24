@@ -55,7 +55,7 @@ Dir hat unsere Konferenz gefallen? Dann kannst du ab sofort auch unsere Expert\*
 
 ### Remote Events as a Service
 
-Zudem bieten wir für Dich und Dein Unternehmen an digitale Events wie Webinare, Workshops, Messen und Konferenzen professionell in der technischen Umsetzung zu begleiten. (Eine eigene Website für diesen neuen **Remote Events Service** folgt in Kürze. Bis dahin stehen wir Dir per Direkttermin oder per Mail gerne im Erstkontakt zur Verfügung.)
+Zudem bieten wir für Dich und Dein Unternehmen an digitale Events wie Webinare, Workshops, Messen und Konferenzen professionell in der technischen Umsetzung zu begleiten. (Eine eigene Website für das neue Angebot **"Remote Events as a Service"** folgt in Kürze. Bis dahin stehen wir Dir per Zoomtermin oder per Mail gerne im Erstkontakt zur Verfügung.)
 
 ▶︎ [Termin mit Benjamin Nothdurft vereinbaren](https://app.hubspot.com/meetings/benjamin-nothdurft)
 
