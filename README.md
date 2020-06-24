@@ -91,7 +91,7 @@ Unser alle drei Monate erscheinendes Magazin "Der Softwerker" könnt ihr als Pri
 
 ### Newsletter
 
-Falls ihr auch in Zukunft informiert werden wollt über Neuigkeiten und Events bei der codecentric, könnt Ihr euch zu unserem monatlichen Newsletter anmelden.
+Falls ihr auch in Zukunft informiert werden wollt über Neuigkeiten und Events bei der codecentric, könnt ihr euch zu unserem monatlichen Newsletter anmelden.
 
 ▶︎ [Newsletter abonnieren](https://www.codecentric.de/newsletter/)
 
