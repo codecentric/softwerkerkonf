@@ -43,6 +43,9 @@ Alle Talks wurden aufgezeichnet und von uns nach und nach auf YouTube in einer n
 
 ▶︎ [Playlist "SoftwerkerKonf" auf YouTube anschauen](https://www.youtube.com/playlist?list=PLD9VybHH2wnYtuaiEcjMH5n2gTgNSDYAV)
 
+> Wir arbeiten aktuell daran, die Videos für YouTube aufzubereiten.
+> Wir hoffen, bis Ende Juni alle Vorträge online zu haben!
+
 ---
 
 ## <a name="angebote">Ausgewählte Angebote</a>
