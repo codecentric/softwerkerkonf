@@ -1,10 +1,20 @@
-## Weiterführende Informationen zur codecentric
+## <a name="informationen">Weiterführende Informationen</a>
 
-### [Newsletter](https://www.codecentric.de/newsletter/)
-Falls ihr auch in Zukunft informiert werden wollt über Neuigkeiten und Events bei der codecentric, könnt Ihr euch zu unserem monatlichen Newsletter anmelden.
+### Der Softwerker
 
-### [Softwerker-Abo](https://www.codecentric.de/wissen/softwerker/)
-Unser alle drei Monate erscheinendes Magazin "Der Softwerker" könnt ihr als Print- und Digitalversion abbonieren. 
+Unser alle drei Monate erscheinendes Magazin "Der Softwerker" könnt ihr als Print- und Digitalversion abonnieren.
 
-### [Karriere-Broschüre](https://info.codecentric.de/karrierebroschuere)
+▶︎ [Softwerker Magazin abonnieren](https://www.codecentric.de/wissen/softwerker/)
+
+### Newsletter
+
+Falls ihr auch in Zukunft informiert werden wollt über Neuigkeiten und Events bei der codecentric, 
+könnt ihr euch zu unserem monatlichen Newsletter anmelden.
+
+▶︎ [Newsletter abonnieren](https://www.codecentric.de/newsletter/)
+
+### Karrierebroschüre
+
 Hier bekommt ihr Informationen über uns als Arbeitgeber. 
+
+▶︎ [Karrierebroschüre downloaden](https://info.codecentric.de/karrierebroschuere)

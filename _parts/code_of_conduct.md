@@ -1,4 +1,4 @@
-# Code of Conduct
+## <a name="conduct">Code of Conduct</a>
 
 All attendees, speakers, sponsors and volunteers at our conference are required to agree with the following code of conduct. Organisers will enforce this code throughout the event. We are expecting cooperation from all participants to help ensuring a safe environment for everybody.
 
@@ -12,9 +12,8 @@ Our conference is dedicated to providing a harassment-free conference experience
 
 ### Mail und Notfallnummer
 
-Im Falle der Verletzung des Code of Conducts kannst Du Dich gerne an Marina Wottschal wenden:
+Im Falle der Verletzung des Code of Conducts kannst Du Dich gerne an Marina Wottschal wenden.
 
 ▶︎ Mail <marina.wottschal@codecentric.de>
 
 ▶︎ Notfallnummer (nur während der Konferenz angezeigt)
-
