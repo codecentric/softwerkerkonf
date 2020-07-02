@@ -4,7 +4,6 @@ Dies sind die Quellen von
     [codecentric.github.io/softwerkerkonf](https://codecentric.github.io/softwerkerkonf/).
 PRs sind offen!
 
-
 ## Anpassungen
 
 Die Startseite wird in
@@ -17,7 +16,6 @@ damit sie einfach austausch- und umsortierbar sind.
 
 Das Deployment findet von GitHub Pages automatisch statt --
 jeder Push (auf `master`) ein Release!
-
 
 ## Lokales Testen
 
