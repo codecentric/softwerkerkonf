@@ -1,0 +1,6 @@
+/.jekyll-cache/
+/.sass-cache/
+/_site/
+
+# Don't lock versions -- GitHub Pages doesn't, either!
+/Gemfile.lock
