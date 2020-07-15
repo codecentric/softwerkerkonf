@@ -17,6 +17,3 @@ und entdecke noch viel weitere spannende Vorträge von uns!
 ▶︎ [codecentric auf YouTube abonnieren](https://www.youtube.com/channel/UCCadM9XfyB78TEogPzwP7iQ/videos)
 
 ▶︎ [Playlist "SoftwerkerKonf" auf YouTube anschauen](https://www.youtube.com/playlist?list=PLD9VybHH2wnYtuaiEcjMH5n2gTgNSDYAV)
-
-> Wir arbeiten aktuell daran, die Videos für YouTube aufzubereiten.
-> Wir hoffen, bis Ende Juni alle Vorträge online zu haben!
