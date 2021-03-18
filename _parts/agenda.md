@@ -1,4 +1,4 @@
-# Agenda
+## Agenda
 
 Die ausführliche Agenda und weitere Infos findest du auf unserer Website:
 

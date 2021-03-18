@@ -9,11 +9,3 @@ Our conference is dedicated to providing a harassment-free conference experience
 ### Long Version
 
 ▶︎ [Visit contributor-covenant.org](https://www.contributor-covenant.org/version/2/0/code_of_conduct/)
-
-### Mail und Notfallnummer
-
-Im Falle der Verletzung des Code of Conducts kannst Du Dich gerne an Marina Wottschal wenden.
-
-▶︎ Mail <marina.wottschal@codecentric.de>
-
-▶︎ Notfallnummer (nur während der Konferenz angezeigt)

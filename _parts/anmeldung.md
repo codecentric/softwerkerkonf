@@ -1,4 +1,4 @@
-# Anmeldung
+## Anmeldung
 Für ein besseres Erlebnis veranstalten wir die diesjährige SoftwerkerKonf mithilfe der professionellen Konferenzplattform Hopin.*
 
 So geht's zur SoftwerkerKonf 2021:

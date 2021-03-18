@@ -1,4 +1,4 @@
-## <a name="informationen">Weiterführende Informationen</a>
+## Weiterführende Informationen
 
 ### Der Softwerker
 

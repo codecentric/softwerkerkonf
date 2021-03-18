@@ -15,8 +15,7 @@ __Online SoftwerkerKonf: Aktuelle Highlights aus der bunten Welt der Softwareent
 {% include_relative _parts/anmeldung.md %}
 
 
-{% include_relative _parts/infos_zu_codecentric.md %}
-
 -------------------------------------------
 
-{% include_relative _parts/code_of_conduct.md %}
+{% include_relative _parts/infos_zu_codecentric.md %}
+
