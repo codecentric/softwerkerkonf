@@ -1,4 +1,4 @@
-## Highlights
+## Highlights der letzten SoftwerkerKonf
 
 
 - Vorträge rund um hochaktuelle und Evergreen-Themen wie Chaos Engineering, Asynchrones JavaScript, Data Science, IoT & mehr
