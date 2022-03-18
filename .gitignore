@@ -4,3 +4,4 @@
 
 # Don't lock versions -- GitHub Pages doesn't, either!
 /Gemfile.lock
+.DS_store
