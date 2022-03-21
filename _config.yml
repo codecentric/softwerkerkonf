@@ -2,6 +2,11 @@ title: SoftwerkerKonf
 theme: jekyll-theme-minimal
 description: .
 logo: softwerkerkonf-logo.png	
+exclude: [run-docker.sh, ContainerDo.toml, README.md]
 
 plugins:
- - github-pages
+  - github-pages
+  - jekyll-redirect-from
+
+whitelist:
+  - jekyll-redirect-from

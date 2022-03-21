@@ -1,4 +1,4 @@
-[container]
+container]
 image = "jekyll/jekyll"
 os_flavor = "alpine"
 

@@ -1,19 +1,15 @@
 ---
 title: SoftwerkerKonf
+redirect_to: https://hopin.com/events/softwerkerkonf-2022/registration
 ---
 
-## Hashtags: #softwerkerkonf #dersoftwerker 
+## Hashtags: #softwerkerkonf #dersoftwerker
 
 __Online SoftwerkerKonf: Aktuelle Highlights aus der bunten Welt der Softwareentwicklung. Von Techies für Techies.__
 
-{% include_relative _parts/highlights.md %}
+Die Teilnahme ist kostenlos.
 
-
-{% include_relative _parts/videos.md %}
-
-
-{% include_relative _parts/fragen.md %}
-
+Hier geht es [zur Agenda und zur Anmeldung](https://hopin.com/events/softwerkerkonf-2022/registration).
 
 -------------------------------------------
 
